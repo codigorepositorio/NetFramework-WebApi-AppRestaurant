@@ -14,6 +14,9 @@ namespace WebApi.Controllers
 {
     public class CustomerController : ApiController
     {
+        /// <summary>
+        /// DB Context de la base de datos
+        /// </summary>
         private DBModel db = new DBModel();
 
         // GET: api/Customer

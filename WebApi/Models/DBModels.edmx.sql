@@ -4,6 +4,7 @@
 -- --------------------------------------------------
 -- Date Created: 05/01/2020 18:29:26
 -- Generated from EDMX file: D:\AppRestaurant\BackEnd\WebApi\WebApi\Models\DBModels.edmx
+-- Autor: Juan Gutierrez
 -- --------------------------------------------------
 
 SET QUOTED_IDENTIFIER OFF;
